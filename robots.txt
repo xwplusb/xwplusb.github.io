@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: /sitemap.xml
+Sitemap: https://xwplusb.github.io/xwplusb.github.io/sitemap.xml
